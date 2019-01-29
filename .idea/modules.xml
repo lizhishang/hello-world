@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaThreadDemo/LearningJavaThread.iml" filepath="$PROJECT_DIR$/JavaThreadDemo/LearningJavaThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJavaThread/LearningJavaThread.iml" filepath="$PROJECT_DIR$/LearningJavaThread/LearningJavaThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningServerParse/LearningServerParse.iml" filepath="$PROJECT_DIR$/LearningServerParse/LearningServerParse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleWebServer01/SimpleWebServer01.iml" filepath="$PROJECT_DIR$/SimpleWebServer01/SimpleWebServer01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleWebServer02/SimpleWebServer02.iml" filepath="$PROJECT_DIR$/SimpleWebServer02/SimpleWebServer02.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
