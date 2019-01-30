@@ -1,1 +1,1 @@
-# This is a simple web server (com.zhishang.core.Servlet) and parse xml file
+# This is a simple web server (Servlet) and parse xml file
