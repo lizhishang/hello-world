@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LearningJavaThread/LearningJavaThread.iml" filepath="$PROJECT_DIR$/LearningJavaThread/LearningJavaThread.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LearningServerParse/LearningServerParse.iml" filepath="$PROJECT_DIR$/LearningServerParse/LearningServerParse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnAnnotation/LearnAnnotation.iml" filepath="$PROJECT_DIR$/LearnAnnotation/LearnAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnClassLoader/LearnClassLoader.iml" filepath="$PROJECT_DIR$/LearnClassLoader/LearnClassLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnDynamicCompile/LearnDynamicCompile.iml" filepath="$PROJECT_DIR$/LearnDynamicCompile/LearnDynamicCompile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnJavaThread/LearnJavaThread.iml" filepath="$PROJECT_DIR$/LearnJavaThread/LearnJavaThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnJavassist/LearnJavassist.iml" filepath="$PROJECT_DIR$/LearnJavassist/LearnJavassist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnReflection/LearnReflection.iml" filepath="$PROJECT_DIR$/LearnReflection/LearnReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnScriptEngineRhino/LearnScriptEngineRhino.iml" filepath="$PROJECT_DIR$/LearnScriptEngineRhino/LearnScriptEngineRhino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnServerParse/LearnServerParse.iml" filepath="$PROJECT_DIR$/LearnServerParse/LearnServerParse.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleWebServer01/SimpleWebServer01.iml" filepath="$PROJECT_DIR$/SimpleWebServer01/SimpleWebServer01.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleWebServer02/SimpleWebServer02.iml" filepath="$PROJECT_DIR$/SimpleWebServer02/SimpleWebServer02.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
