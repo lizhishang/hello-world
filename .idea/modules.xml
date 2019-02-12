@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GOF23/GOF23.iml" filepath="$PROJECT_DIR$/GOF23/GOF23.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnAnnotation/LearnAnnotation.iml" filepath="$PROJECT_DIR$/LearnAnnotation/LearnAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnClassLoader/LearnClassLoader.iml" filepath="$PROJECT_DIR$/LearnClassLoader/LearnClassLoader.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnDynamicCompile/LearnDynamicCompile.iml" filepath="$PROJECT_DIR$/LearnDynamicCompile/LearnDynamicCompile.iml" />
